@@ -1,0 +1,1 @@
+var random = Math.random() ;var picnum = Math.round(random*6)+1;document.write('<img src=images/side'+picnum+'.jpg>');

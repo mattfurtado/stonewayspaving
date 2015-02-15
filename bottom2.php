@@ -1,0 +1,1 @@
+</p>		</div>				</div>	</div></div><div class="both"></div><div id="footer">	<div class="left">		Copyright &copy; 2007 StoneWays Paving, Inc. - <a href="mailto:c-harp@hotmail.com">E-mail Us</a>	</div>	<div class="right">		Designed by <a href="http://www.mattfurtado.com" target="_blank">Matt Furtado</a>	</div></div></div></body></html>
